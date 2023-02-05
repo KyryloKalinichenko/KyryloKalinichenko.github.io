@@ -25,7 +25,7 @@ body::after {
     height: 100%;
     width: 60%;
     margin: 0 auto;
-    perspective: 2500px;
+    perspective: 1500px;
 
 }
 
